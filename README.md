@@ -377,19 +377,4 @@ Este proyecto demuestra capacidades directamente aplicables a:
 
 ---
 
-## 📫 Conecta Conmigo
-
-Estoy buscando activamente oportunidades en roles de **Ingeniería de Datos**, **Big Data** y **Analytics Engineering** donde pueda aplicar estas habilidades para resolver problemas de negocio del mundo real.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-
----
-
-## 📝 Licencia
-
-Este proyecto es parte de mi portfolio profesional y demuestra mis capacidades técnicas en ingeniería de big data.
-
----
-
 **⭐ Si eres reclutador y encontraste esto impresionante, ¡hablemos sobre cómo puedo aportar esta experiencia a tu equipo!**
