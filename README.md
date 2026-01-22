@@ -84,7 +84,7 @@ Demostrar dominio técnico en ingeniería de datos mediante la implementación d
 
 Procesamiento de 100K+ registros de ventas con agregaciones multi-nivel y window functions.
 
-```python
+``python
 # Ranking de salarios por departamento con Window Functions
 ventana_dept = Window.partitionBy("departamento").orderBy(col("salario").desc())
 
@@ -328,7 +328,7 @@ Demostrar dominio técnico en ingeniería de datos mediante la implementación d
 
 Procesamiento de 100K+ registros de ventas con agregaciones multi-nivel y window functions.
 
-```python
+``python
 # Ranking de salarios por departamento con Window Functions
 ventana_dept = Window.partitionBy("departamento").orderBy(col("salario").desc())
 
